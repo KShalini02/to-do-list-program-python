@@ -8,4 +8,3 @@ Features:
 • Mark tasks as completed.
 • Delete tasks.
 • Store tasks persistently in a file.
-
