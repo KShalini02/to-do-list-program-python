@@ -1,8 +1,8 @@
-TITLE:Simple To-Do List Application
+Title:Simple To-Do List Application
 
-DESCRIPTION:In this program we can assign the task and that completed task we can deleted 
+Description:In this program we can assign the task and that completed task we can deleted 
 
-FEATURES: 
+Features: 
 
 Add tasks
 View tasks
