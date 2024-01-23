@@ -1,10 +1,11 @@
-Title:
-Simple To-Do list Application
-Description:
-In this program we can assign the task and that completed task we can deleted.
-Features:
-• Add tasks to the to-do list.
-• View the current list of tasks.
-• Mark tasks as completed.
-• Delete tasks.
-• Store tasks persistently in a file.
+TITLE:Simple To-Do List Application
+
+DESCRIPTION:In this program we can assign the task and that completed task we can deleted 
+
+FEATURES: 
+
+Add tasks
+View tasks
+Mark tasks as completed
+Delete tasks
+Save the inputs in text files.
